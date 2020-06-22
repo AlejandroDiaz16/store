@@ -1,0 +1,3 @@
+[submodule "onlineStore"]
+	path = onlineStore
+	url = https://github.com/AlejandroDiaz16/onlineStore.git
